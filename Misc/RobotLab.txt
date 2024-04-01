@@ -1,0 +1,144 @@
+Lab 1 Problem 1
+move()
+turnLeft()
+pickUpBeeper()
+putBeeper()
+repeat X times / End
+while ? / End
+BeepersPresent() – returns true if beeper >= 1
+----------------------------------------------------------------------------------------------------------------
+move()
+//facing right on original beeper spot
+while(beepersPresent()){
+	pickUpBeeper()
+	move()
+	turnLeft()
+	turnLeft()
+	putBeeper()
+	putBeeper()
+	move()
+	turnLeft()
+	turnLeft()
+}
+move()
+turnLeft()
+turnLeft()
+//facing left on new beeper double spot
+while(beepersPresent()){
+	pickUpBeeper()
+	move()
+	turnLeft()
+	turnLeft()
+	putBeeper()
+	move()
+	turnLeft()
+	turnLeft()
+}
+move()
+move()
+turnLeft()
+turnLeft()
+-----------------------------------------------------------------------------------
+Lab 1 Problem 2
+move()
+turnLeft()
+putBeeper()
+pickBeeper()
+while, repeat, if
+frontIsClear/Blocked
+leftIsClear/Blocked
+rightIsClear/Blocked
+beepersPresent/noBeepersPresent
+beepersInBag/noBeepersInBag
+-----------------------------------------------------------------------------------------
+//start on 1,1 facing right
+//gets from start to final row
+while(frontIsClear){
+	turnLeft()
+	//algo for grabbing beepers off row
+	while(frontIsClear()){
+		if(beepersPresent){
+			pickBeeper()
+			move()
+		}
+		else{
+			move()
+		}
+	}
+	if(beepersPresent(){
+		pickBeeper()
+	}
+	turnLeft()
+	turnLeft()
+	while(frontIsClear()){
+		move()
+	}
+	turnLeft()
+}
+//on final column facing right 
+turnLeft()
+while(frontIsClear()){
+	if(beepersPresent){
+		pickBeeper()
+		move()
+	}
+	else{
+		move()
+	}
+}
+if(beepersPresent()){
+	pickBeeper()
+}
+turnLeft()
+turnLeft()
+while(frontIsClear()){
+	move()
+}
+turnLeft()
+//facing right on last, 1
+while(beepersInBag()){
+	putBeeper()
+}
+turnLeft()
+turnLeft()
+while(frontIsClear()){
+	move()
+}
+turnLeft()
+turnLeft()
+
+-------------------------------------------------------------------------------------------------------------------
+Lab 1 Problem 3
+Inputs - Inches of snowfall
+Outputs - salt needed, % chance of school cancellation
+First layer is 0-2, second layer is 2-4, 4+ is final layer
+2.54 cm to 1 in
+logic after first 10cm doesnt matter for school cancel %
+-----------------------------------------------------------------------------------
+userInput = Console.ReadLine()
+int in = userInput
+int cm = userInput * 2.54
+
+if(in < 2){
+	print((in * 20) + " lbs of salt")
+}
+else if(in < 4){
+	print((((in - 2) * 30) + 40) + " lbs of salt")
+}
+else{
+	print((((in - 4) * 40) + (40 + 60)) + " lbs of salt")
+}
+
+if(cm < 10){
+	int percent = (cm * 10) + 5
+	if(percent) <= 100){
+		print(() + "% chance of school cancellation tomorrow")
+	}
+	else{
+		print("100% chance of school cancellation tomorrow")
+	}
+}
+else{
+		print("100% chance of school cancellation tomorrow")
+}
+

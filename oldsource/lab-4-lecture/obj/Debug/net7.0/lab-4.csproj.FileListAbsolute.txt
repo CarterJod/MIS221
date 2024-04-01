@@ -1,0 +1,14 @@
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\bin\Debug\net7.0\lab-4.exe
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\bin\Debug\net7.0\lab-4.deps.json
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\bin\Debug\net7.0\lab-4.runtimeconfig.json
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\bin\Debug\net7.0\lab-4.dll
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\bin\Debug\net7.0\lab-4.pdb
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.AssemblyInfoInputs.cache
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.AssemblyInfo.cs
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.csproj.CoreCompileInputs.cache
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.dll
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\refint\lab-4.dll
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.pdb
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\lab-4.genruntimeconfig.cache
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\lab-4\obj\Debug\net7.0\ref\lab-4.dll

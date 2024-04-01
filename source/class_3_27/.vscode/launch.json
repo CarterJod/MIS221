@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: mis221-pa4-CarterJod",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\..\\PA4\\mis221-pa4-CarterJod\\mis221-pa4-CarterJod.csproj",
+            "launchConfigurationId": "TargetFramework=;mis221-pa4-CarterJod"
+        }
+    ]
+}

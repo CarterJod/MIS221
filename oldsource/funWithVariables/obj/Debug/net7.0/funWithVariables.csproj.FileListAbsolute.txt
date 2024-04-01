@@ -1,0 +1,14 @@
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\bin\Debug\net7.0\funWithVariables.exe
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\bin\Debug\net7.0\funWithVariables.deps.json
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\bin\Debug\net7.0\funWithVariables.runtimeconfig.json
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\bin\Debug\net7.0\funWithVariables.dll
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\bin\Debug\net7.0\funWithVariables.pdb
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.AssemblyInfoInputs.cache
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.AssemblyInfo.cs
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.dll
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\refint\funWithVariables.dll
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.pdb
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\funWithVariables.genruntimeconfig.cache
+C:\Users\Carter\OneDrive - The University of Alabama\source\mis221\funWithVariables\obj\Debug\net7.0\ref\funWithVariables.dll

@@ -1,0 +1,14 @@
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.AssemblyInfoInputs.cache
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.AssemblyInfo.cs
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.csproj.CoreCompileInputs.cache
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\bin\Debug\net7.0\class_3_18.exe
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\bin\Debug\net7.0\class_3_18.deps.json
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\bin\Debug\net7.0\class_3_18.runtimeconfig.json
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\bin\Debug\net7.0\class_3_18.dll
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\bin\Debug\net7.0\class_3_18.pdb
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.dll
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\refint\class_3_18.dll
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.pdb
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\class_3_18.genruntimeconfig.cache
+C:\Users\cfjod\Desktop\MIS221\source\class_3_18\obj\Debug\net7.0\ref\class_3_18.dll

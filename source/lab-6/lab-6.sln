@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab-6", "lab-6.csproj", "{4D0351F9-05F8-46E4-8999-7C6337770B98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mis221-lab-6-CarterJod", "mis221-lab-6-CarterJod\mis221-lab-6-CarterJod.csproj", "{6FDA5D3E-6912-4E10-8F37-B6D0A84F8A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0351F9-05F8-46E4-8999-7C6337770B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0351F9-05F8-46E4-8999-7C6337770B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0351F9-05F8-46E4-8999-7C6337770B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0351F9-05F8-46E4-8999-7C6337770B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDA5D3E-6912-4E10-8F37-B6D0A84F8A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDA5D3E-6912-4E10-8F37-B6D0A84F8A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDA5D3E-6912-4E10-8F37-B6D0A84F8A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDA5D3E-6912-4E10-8F37-B6D0A84F8A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9AFB77-DC94-4229-BE87-2311C4F80312}
+	EndGlobalSection
+EndGlobal

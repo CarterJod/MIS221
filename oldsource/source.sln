@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mis221", "mis221", "{2C5451C7-54D2-4881-8377-6EEAD7B5896F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funWithVariables", "mis221\funWithVariables\funWithVariables.csproj", "{DE3E9FB5-51DD-4F1D-83AA-A6F1E73B4BA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloWorld", "mis221\helloWorld\helloWorld.csproj", "{915D568A-4F97-44A6-8C3B-06ED48B3C340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3E9FB5-51DD-4F1D-83AA-A6F1E73B4BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3E9FB5-51DD-4F1D-83AA-A6F1E73B4BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3E9FB5-51DD-4F1D-83AA-A6F1E73B4BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3E9FB5-51DD-4F1D-83AA-A6F1E73B4BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915D568A-4F97-44A6-8C3B-06ED48B3C340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915D568A-4F97-44A6-8C3B-06ED48B3C340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915D568A-4F97-44A6-8C3B-06ED48B3C340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915D568A-4F97-44A6-8C3B-06ED48B3C340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DE3E9FB5-51DD-4F1D-83AA-A6F1E73B4BA9} = {2C5451C7-54D2-4881-8377-6EEAD7B5896F}
+		{915D568A-4F97-44A6-8C3B-06ED48B3C340} = {2C5451C7-54D2-4881-8377-6EEAD7B5896F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D83218F-C6D4-419C-8A97-06FE00D56479}
+	EndGlobalSection
+EndGlobal
