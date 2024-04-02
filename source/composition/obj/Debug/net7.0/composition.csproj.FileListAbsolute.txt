@@ -1,0 +1,14 @@
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.AssemblyInfoInputs.cache
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.AssemblyInfo.cs
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.csproj.CoreCompileInputs.cache
+C:\Users\cfjod\Desktop\MIS221\source\composition\bin\Debug\net7.0\composition.exe
+C:\Users\cfjod\Desktop\MIS221\source\composition\bin\Debug\net7.0\composition.deps.json
+C:\Users\cfjod\Desktop\MIS221\source\composition\bin\Debug\net7.0\composition.runtimeconfig.json
+C:\Users\cfjod\Desktop\MIS221\source\composition\bin\Debug\net7.0\composition.dll
+C:\Users\cfjod\Desktop\MIS221\source\composition\bin\Debug\net7.0\composition.pdb
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.dll
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\refint\composition.dll
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.pdb
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\composition.genruntimeconfig.cache
+C:\Users\cfjod\Desktop\MIS221\source\composition\obj\Debug\net7.0\ref\composition.dll
